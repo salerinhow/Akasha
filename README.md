@@ -1,6 +1,8 @@
 # Akasha
 
-Um catálogo pessoal de animes desenvolvido em Java 21 e Spring Boot, com foco na aplicação de padrões de projeto. O projeto utiliza Factory Method para a criação de objetos e Strategy para implementar diferentes formas de ordenação de animes.
+# Akasha
+
+O Akasha é uma aplicação de catálogo pessoal de animes desenvolvida com Java 21 e Spring Boot. O projeto explora a construção de uma aplicação modular, com foco na organização do código e na aplicação prática de conceitos de desenvolvimento de software.
 
 ## Requisitos
 
