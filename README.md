@@ -1,7 +1,5 @@
 # Akasha
 
-# Akasha
-
 O Akasha é uma aplicação de catálogo pessoal de animes desenvolvida com Java 21 e Spring Boot. O projeto explora a construção de uma aplicação modular, com foco na organização do código e na aplicação prática de conceitos de desenvolvimento de software.
 
 ## Requisitos
